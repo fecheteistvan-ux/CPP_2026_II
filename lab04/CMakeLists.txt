@@ -1,2 +1,2 @@
 project(lab4)
-add_executable(lab4 main_04.cpp)
+add_executable(lab4 main_04.cpp Polynomial.cpp Polynomial.h)

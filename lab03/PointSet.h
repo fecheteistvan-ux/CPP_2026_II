@@ -7,13 +7,9 @@
 using namespace std;
 
 class PointSet {
-    // különböző pontok
     vector<Point> points;
-    // különböző pontok száma
     int n;
-    // pontok közötti távolságok
     vector<double> distances;
-    // segédfüggvény, amely feltölti a distances vektort
     void computeDistances();
 
 public:
