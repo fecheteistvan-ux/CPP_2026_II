@@ -5,4 +5,7 @@ add_executable(lab9 main_09.cpp
         File.cpp
         File.h
         Directory.cpp
-        Directory.h)
+        Directory.h
+        lab09-EXTRA01/Student.cpp
+        lab09-EXTRA01/Student.h
+)
